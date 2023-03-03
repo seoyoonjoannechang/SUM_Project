@@ -30,6 +30,5 @@
 ### 웹서비스
 https://seoyoonjoannechang.github.io/
 
-### Trello
-https://trello.com/b/PWqvjjF5/shinchon-ultra-machine-learning-team
+### [Trello](https://trello.com/b/PWqvjjF5/shinchon-ultra-machine-learning-team)
 - 프로젝트 기간동안 각 팀원들 업무 진행 상황 공유   
