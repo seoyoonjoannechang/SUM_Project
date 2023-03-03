@@ -27,8 +27,7 @@
 - 기상요소 중,  현상번호는 백령도, 인천 중구, 파주, 강변북로의 비, 눈, 안개, 황사 등이 종로구 익일 미세먼지 농도에 영향을 미치고 있었음
 - 스태킹을 이용하여 회귀 모델과 분류 모델을 앙상블한 머신러닝 모델이 가장 정확도가 높았음
 
-### 웹서비스
-https://seoyoonjoannechang.github.io/
+### [웹서비스](https://seoyoonjoannechang.github.io/)
 
 ### [Trello](https://trello.com/b/PWqvjjF5/shinchon-ultra-machine-learning-team)
 - 프로젝트 기간동안 각 팀원들 업무 진행 상황 공유   
